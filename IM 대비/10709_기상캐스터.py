@@ -27,3 +27,4 @@ for i in range(H):
 
 for c in cloud:
     print(*c)
+
