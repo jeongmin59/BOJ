@@ -28,3 +28,4 @@ for _ in range(n):
                 ans += 1
 
 print(ans)
+

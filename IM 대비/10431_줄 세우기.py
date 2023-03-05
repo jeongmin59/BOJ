@@ -18,3 +18,4 @@ for tc in range(1, P+1):
                 cnt += 1
 
     print(f"{tc} {cnt}")
+
